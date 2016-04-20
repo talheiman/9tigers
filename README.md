@@ -8,4 +8,4 @@ This is a new message: "Hello World"!
 
 After conflict message...
 
-This is a CONFLICT!!!!
+This has indeed been a CONFLICT!!!!
