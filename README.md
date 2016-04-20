@@ -9,3 +9,4 @@ This is a new message: "Hello World"!
 After conflict message...
 
 WARNING: Potential conflict ahead.
+
